@@ -1,6 +1,3 @@
-<br>
-<br>
-
 <div align="center" style="text-align: center;">
 
 <br>
@@ -18,11 +15,12 @@
 
 <br>
 
-<!-- #### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+---
 
-<br> -->
+#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
 
-<!--
+---
+
 [home]: https://iamprogrammer.lk
 [blog]: https://blog.iamprogrammer.lk
 [sponsors]: https://github.com/sponsors/iamprogrammerlk
@@ -31,11 +29,11 @@
 [youtube]: https://youtube.com/@iamprogrammerlk
 [x]: https://x.com/iamprogrammerlk
 [linkedin]: https://lk.linkedin.com/company/iamprogrammerlk
-[buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk -->
+[buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk
+
+<br>
 
 </div>
-
-<!-- --- -->
 
 <!-- <br> -->
 
