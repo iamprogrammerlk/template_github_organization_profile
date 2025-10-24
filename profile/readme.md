@@ -4,7 +4,7 @@
 
 <div align="center" style="text-align: center;">
 
-  <a href="https://{{WEBSITE_URL}}">
+  <a href="https://github.com/{{ORGANIZATION_USERNAME}}">
     <img src="https://{{ORGANIZATION_PROFILE_PICTURE_URL}}" alt="{{ORGANIZATION_NAME}}" width="200">
   </a>
 
@@ -94,7 +94,7 @@ We love contributions! Here's how you can help:
 
 - ### 🧬 **Submit Pull Requests:** Check our [contributing guidelines][contributing]
 
-- ### 📃 **Improve Documentation:** Help us make our [documents][docs] better
+- ### 📃 **Improve Documentation:** Help us make our [documents][documentation_repository] better
 
 - ### 💰 **Financial Support:** Make a [donation][donation]
 
@@ -142,22 +142,22 @@ Please check individual repositories for specific licensing information.
 
 ---
 
-_Made with ❤️ by [I am Programmer][maintainer] and [The {{ORGANIZATION_NAME}} Team][contributors]._
+_Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_NAME}} Team][contributors]._
 
 <br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 <br><br><br><br>
 
-[website]: https://iamprogrammer.lk
-[email]: mailto:contact@iamprogrammer.lk
-[reddit]: https://reddit.com/r/iamprogrammerlk
-[github]: https://github.com/iamprogrammerlk
-[youtube]: https://youtube.com/@iamprogrammerlk
-[x]: https://x.com/iamprogrammerlk
-[linkedin]: https://lk.linkedin.com/company/iamprogrammerlk
-[issues]: https://github.com/iamprogrammerlk/iamprogrammerlk/issues
-[contributing]: https://github.com/iamprogrammerlk/iamprogrammerlk/contributing.md
-[contributors]: https://github.com/iamprogrammerlk/iamprogrammerlk/graphs/contributors
-[docs]: https://iamprogrammer.lk
+[website]: https://{{ORGANIZATION_WEBSITE}}
+[email]: mailto:contact@{{ORGANIZATION_WEBSITE}}
+[reddit]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
+[github]: https://github.com/{{ORGANIZATION_USERNAME}}
+[youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
+[x]: https://x.com/{{ORGANIZATION_USERNAME}}
+[linkedin]: https://linkedin.com/company/{{ORGANIZATION_USERNAME}}
+[issues]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/issues
+[contributing]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/contributing.md
+[contributors]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/graphs/contributors
+[documentation_repository]: https://github.com/{{ORGANIZATION_USERNAME}}/documentation
 [donation]: https://github.com/sponsors/iamprogrammerlk
-[maintainer]: https://github.com/iamprogrammerlk
+[lead_maintainer]: https://github.com/iamprogrammerlk
