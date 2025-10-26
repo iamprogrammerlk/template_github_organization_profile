@@ -4,23 +4,23 @@
 
 <div align="center" style="text-align: center;">
 
-  <a href="https://github.com/{{ORGANIZATION_USERNAME}}">
+  <a href="https://{{ORGANIZATION_USERNAME}}.github.io">
     <img src="https://{{ORGANIZATION_PROFILE_PICTURE_URL}}" alt="{{ORGANIZATION_NAME}}" width="200">
   </a>
 
 <br><br>
 
-  <h1>{{ORGANIZATION_TAGLINE}}</h1>
+  <h1><i>{{ORGANIZATION_TAGLINE}}</i></h1>
 
   <br>
 
   <h2>
-    <a href="https://{{URL}}">🏠 Home</a> 
-    <a href="https://{{URL}}">📚 Read the Docs</a> 
-    <a href="https://{{URL}}">🫅 Be a Sponsor</a> 
-    <a href="https://{{URL}}">🛟 Get Support</a> 
-    <a href="https://{{URL}}">☎️ Contact Us</a> 
-    <a href="https://{{URL}}">♥️ Join the Community</a> 
+    <a href="https://{{ORGANIZATION_URL}}">🏠 Home</a> 
+    <a href="https://{{ORGANIZATION_URL}}">📚 Read the Docs</a> 
+    <a href="https://{{ORGANIZATION_URL}}">🫅 Be a Sponsor</a> 
+    <a href="https://{{ORGANIZATION_URL}}">🛟 Get Support</a> 
+    <a href="https://{{ORGANIZATION_URL}}">☎️ Contact Us</a> 
+    <a href="https://{{ORGANIZATION_URL}}">♥️ Join the Community</a> 
   </h2>
 
 </div>
@@ -102,19 +102,19 @@ We love contributions! Here's how you can help:
 
 # 📞 Connect With Us
 
-- ### 🌐 Website: [{{WEBSITE}}][website]
+- ### 🌐 Website: [https://{{ORGANIZATION_URL}}][website]
 
-- ### 📧 Email: [{{EMAIL}}][email]
+- ### 📧 Email: [contact@{{ORGANIZATION_URL}}][email]
 
-- ### 🏗️ Github: [{{USERNAME}}][github]
+- ### 🏗️ Github: [{{ORGANIZATION_USERNAME}}][github]
 
-- ### 📚 Reddit: [{{USERNAME}}][reddit]
+- ### 📚 Reddit: [r/{{ORGANIZATION_USERNAME}}][reddit]
 
-- ### 💼 LinkedIn: [{{USERNAME}}][linkedin]
+- ### 💼 LinkedIn: [company/{{ORGANIZATION_USERNAME}}][linkedin]
 
-- ### 🐦 X: [{{USERNAME}}][x]
+- ### 🐦 X: [{{ORGANIZATION_USERNAME}}][x]
 
-- ### 📹 YouTube: [{{USERNAME}}][youtube]
+- ### 📹 YouTube: [@{{ORGANIZATION_USERNAME}}][youtube]
 
 <br><br>
 
@@ -148,8 +148,8 @@ _Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_
 
 <br><br><br><br>
 
-[website]: https://{{ORGANIZATION_WEBSITE}}
-[email]: mailto:contact@{{ORGANIZATION_WEBSITE}}
+[website]: https://{{ORGANIZATION_URL}}
+[email]: mailto:contact@{{ORGANIZATION_URL}}
 [reddit]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
 [github]: https://github.com/{{ORGANIZATION_USERNAME}}
 [youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
