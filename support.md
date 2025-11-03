@@ -51,7 +51,7 @@ If your issue isn't getting attention:
 
 - 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
 
-- 📖 API Reference: [API Documents][api_documentation]
+- 📖 API Reference: [API Documentation][api_documentation]
 
 # 📚 Learning Materials
 
@@ -61,10 +61,10 @@ If your issue isn't getting attention:
 
 - 🚀 Getting Started Guide: [Quickstart][documentation]
 
-[documentation]: https://{{ORGANIZATION_USERNAME}}.github.io/documentation
-[community]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
+[documentation]: https://{{DOCUMENTATION_URL}}
+[api_documentation]: https://{{DOCUMENTATION_URL}}
+[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
-[support_email]: mailto:support@{{ORGANIZATION_WEBSITE}}
-[youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
-[api_documentation]: https://{{ORGANIZATION_USERNAME}}.github.io/documentation
+[support_email]: mailto:{{SUPPORT_EMAIL}}
+[youtube]: https://youtube.com/{{GITHUB_USERNAME}}

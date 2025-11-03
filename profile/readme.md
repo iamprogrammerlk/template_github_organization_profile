@@ -1,38 +1,40 @@
-<a name="readme-top"></a>
-
-<br><br><br><br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
 
-  <a href="https://{{ORGANIZATION_USERNAME}}.github.io">
-    <img src="https://{{ORGANIZATION_PROFILE_PICTURE_URL}}" alt="{{ORGANIZATION_NAME}}" width="200">
+  <a href="https://{{PROJECT_URL}}">
+    <img src="https://{{PROFILE_IMAGE_URL}}" alt="{{PROJECT_URL}}" width="200">
   </a>
 
-<br><br>
+  <br>
+  <br>
 
   <h1><i>{{ORGANIZATION_TAGLINE}}</i></h1>
 
   <br>
 
   <h2>
-    <a href="https://{{ORGANIZATION_URL}}">🏠 Home</a> 
-    <a href="https://{{ORGANIZATION_URL}}">📚 Read the Docs</a> 
-    <a href="https://{{ORGANIZATION_URL}}">🫅 Be a Sponsor</a> 
-    <a href="https://{{ORGANIZATION_URL}}">🛟 Get Support</a> 
-    <a href="https://{{ORGANIZATION_URL}}">☎️ Contact Us</a> 
-    <a href="https://{{ORGANIZATION_URL}}">♥️ Join the Community</a> 
+    <a href="https://{{URL}}">🏠 Home</a> 
+    <a href="https://{{URL}}">📚 Read the Docs</a> 
+    <a href="https://{{URL}}">🫅 Be a Sponsor</a> 
+    <a href="https://{{URL}}">🛟 Get Support</a> 
+    <a href="https://{{URL}}">☎️ Contact Us</a> 
+    <a href="https://{{URL}}">♥️ Join the Community</a> 
   </h2>
 
 </div>
 
-<br><br><br><br>
+<br>
+<br>
 
 # 🚀 {{ORGANIZATION_NAME}}
 
 Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedicated to
 {{BRIEF_MISSION_STATEMENT_OR_PURPOSE_OF_THE_ORGANIZATION}}.
 
-<br><br>
+<br>
+<br>
 
 # 🌟 About Us
 
@@ -46,7 +48,8 @@ Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedi
 
   {{YOUR_ORGANIZATIONS__VISION_STATEMENT}}
 
-<br><br>
+<br>
+<br>
 
 # 🛠️ What We Do
 
@@ -66,7 +69,8 @@ Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedi
 
   {{COMMUNITY_INITIATIVES_OR_SUPPORT}}
 
-<br><br>
+<br>
+<br>
 
 # 🛠️ Technology Stack
 
@@ -82,7 +86,8 @@ Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedi
 
 - ### {{SAMPLE_INFRASTRUCTURE}}
 
-<br><br>
+<br>
+<br>
 
 # 🤝 How to Contribute
 
@@ -98,7 +103,8 @@ We love contributions! Here's how you can help:
 
 - ### 💰 **Financial Support:** Make a [donation][donation]
 
-<br><br>
+<br>
+<br>
 
 # 📞 Connect With Us
 
@@ -116,7 +122,8 @@ We love contributions! Here's how you can help:
 
 - ### 📹 YouTube: [@{{ORGANIZATION_USERNAME}}][youtube]
 
-<br><br>
+<br>
+<br>
 
 # 🌟 Support Us
 
@@ -132,21 +139,22 @@ If you find our work valuable, consider:
 
 - ### 💲 Donating to us
 
-<br><br>
+<br>
+<br>
 
 # 📜 License
 
 Please check individual repositories for specific licensing information.
 
-<br><br>
+<br>
+<br>
 
 ---
 
-_Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_NAME}} Team][contributors]._
+_Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_NAME}} Team][contributors]._
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
-
-<br><br><br><br>
+<br>
+<br>
 
 [website]: https://{{ORGANIZATION_URL}}
 [email]: mailto:contact@{{ORGANIZATION_URL}}
