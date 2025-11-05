@@ -4,7 +4,7 @@
 <div align="center" style="text-align: center;">
 
   <a href="https://{{ORGANIZATION_URL}}">
-    <img src="resource/cover_3840x2160.png" alt="{{ORGANIZATION_TITLE}}" width="100%">
+    <img src="cover_3840x2160.png" alt="{{ORGANIZATION_TITLE}}" width="100%">
   </a>
 
   <br>
