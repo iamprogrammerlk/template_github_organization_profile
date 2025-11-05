@@ -170,7 +170,7 @@ _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer] and [The {{O
 [issues]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/issues
 [contributing]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/contributing.md
 [contributors]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/graphs/contributors
-[documentation_repository]: https://github.com/{{ORGANIZATION_USERNAME}}/documentation
+[documentation_repository]: https://github.com/{{ORGANIZATION_USERNAME}}/docs
 [donation]: https://github.com/sponsors/iamprogrammerlk
 [lead_maintainer]: https://github.com/iamprogrammerlk
 [documentation]: https://{{ORGANIZATION_URL}}/docs
