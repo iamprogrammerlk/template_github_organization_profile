@@ -3,7 +3,7 @@
 
 <div align="center" style="text-align: center;">
 
-  <a href="https://{{ORGANIZATION_URL}}">
+  <a target="_blank" rel="noreferrer" href="https://{{ORGANIZATION_URL}}">
     <img src="cover_3840x2160.png" alt="{{ORGANIZATION_TITLE}}" width="100%">
   </a>
 
