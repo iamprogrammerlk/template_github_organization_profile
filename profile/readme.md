@@ -16,12 +16,12 @@
   <br>
 
   <h2>
-    <a href="https://{{URL}}">🏠 Home</a> 
-    <a href="https://{{URL}}">📚 Read the Docs</a> 
-    <a href="https://{{URL}}">🫅 Be a Sponsor</a> 
-    <a href="https://{{URL}}">🛟 Get Support</a> 
-    <a href="https://{{URL}}">☎️ Contact Us</a> 
-    <a href="https://{{URL}}">♥️ Join the Community</a> 
+    <a target="_blank" rel="noreferrer" href="https://{{URL}}">🏠 Home</a> 
+    <a target="_blank" rel="noreferrer" href="https://{{URL}}">📚 Read the Docs</a> 
+    <a target="_blank" rel="noreferrer" href="https://{{URL}}">🫅 Be a Sponsor</a> 
+    <a target="_blank" rel="noreferrer" href="https://{{URL}}">🛟 Get Support</a> 
+    <a target="_blank" rel="noreferrer" href="https://{{URL}}">☎️ Contact Us</a> 
+    <a target="_blank" rel="noreferrer" href="https://{{URL}}">♥️ Join the Community</a> 
   </h2>
 
 </div>
